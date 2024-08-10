@@ -1,0 +1,13 @@
+{
+  "name": "broadcast",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/grommoott/cha4-broadcast",
+  "author": "grommoott",
+  "license": "MIT",
+  "dependencies": {
+    "bufferutil": "^4.0.8",
+    "jsonwebtoken": "^9.0.2",
+    "ws": "^8.18.0"
+  }
+}
