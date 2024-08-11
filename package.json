@@ -5,6 +5,9 @@
   "repository": "https://github.com/grommoott/cha4-broadcast",
   "author": "grommoott",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "bufferutil": "^4.0.8",
     "jsonwebtoken": "^9.0.2",
